@@ -1,3 +1,4 @@
 <?php get_header(); ?>
-This is my index
+
+Index php
 <?php get_footer(); ?>

@@ -4,3 +4,7 @@
     Author: Karol Klimaszewski
     Description: My first wordpress theme made from a scratch
 */
+
+body{
+    background: red;
+}
